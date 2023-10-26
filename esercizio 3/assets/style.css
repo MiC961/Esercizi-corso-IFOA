@@ -1,0 +1,36 @@
+#box{
+    margin: 0 300px;
+}
+
+header{
+    text-align: center;
+}
+
+#testo1{
+    color: #0A5452;
+    background-color: #fcf1b7;
+    padding: 12px;
+}
+
+#titolo1{
+    text-align: center;
+    margin: auto;
+}
+
+
+figure{
+    text-align: center;
+}
+
+figure img{
+    width: 90%;
+}
+
+#featured p{
+    color: orange;
+}
+
+#featured a{
+    color: #077171;
+}
+
