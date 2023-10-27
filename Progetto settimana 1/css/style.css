@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Open+Sans:ital,wght@0,400;0,700;1,400&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@700&display=swap');
+
+/* Header */
+#testa {
+    background-color: black;
+    text-align: center;
+    height: 20vh;
+    }
+/* body */
+body {
+    font-family: "open Sans", sans-serif;
+    font-weight: 700;
+    color: #393d41;
+    line-height: 1.65;
+    height: 1.2rem;
+}
+
+/* Banner */
+.sottotesto {
+    margin-top: 30px;
+    background-image: url("../images/banner.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 30vh;
+    padding: 30px;
+    text-align: center;
+}
+
+/* bottone */
+button {
+    background-color: #f04c2f;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+h1 {
+    color: #25a2c3;
+}
+
+
+h3{
+    color: #25a2c3;
+}
+
+h2{
+   color: white;
+}
+
+/* main */
+main {
+    text-align: center;
+}
+/* varie foto */
+#notebook{
+    border-radius: 50%;
+}
+
+
+
+footer{
+    background-color: #4baac5;
+    text-align: center;
+}
+
+footer a{
+    color: #c8e7f0;
+}
+
+aside{
+    background-color: orangered;
+        
+}
+
+aside p{
+    color: white;
+}
+
+#immagine1{
+    margin: auto;
+}
